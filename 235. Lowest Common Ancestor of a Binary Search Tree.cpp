@@ -1,3 +1,6 @@
+// TIL : in a BST, every element to the right of the node is greater than root
+// and every element to the left of the root is smaller than the root
+
 /**
  * Definition for a binary tree node.
  * struct TreeNode {
