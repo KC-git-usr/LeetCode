@@ -1,5 +1,7 @@
 // 00000010100101000001111010011100
 // 00111001011110000010100101000000
+// TIL : order of operations matter
+// make space in result before adding new bit
 
 class Solution {
 public:
